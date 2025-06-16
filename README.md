@@ -1,4 +1,4 @@
 # my-education
 new one 
-author = Aman 
+author = Aman <br>
 owner of tank shark
